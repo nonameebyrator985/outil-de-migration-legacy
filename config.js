@@ -1,5 +1,5 @@
 const config = {
-    apiUrl: 'https://api.new-migration-tool.com',
+    apiUrl: 'https://api.production-tool.com',
     outputPath: './reports'
 };
 
