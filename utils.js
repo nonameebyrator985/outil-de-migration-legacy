@@ -1,10 +1,10 @@
 const analyzeCode = (code) => {
-    // Logique d'analyse du code
+    // Analyze the provided code and return an array of issues
     return [];
 };
 
 const generateReport = (suggestions) => {
-    // Logique pour générer un rapport
+    // Generate a report from the given suggestions, joining them by new line
     return suggestions.join('\n');
 };
 
