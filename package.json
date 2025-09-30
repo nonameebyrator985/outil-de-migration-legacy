@@ -1,0 +1,16 @@
+{
+  "name": "outil-de-migration-legacy",
+  "version": "1.0.0",
+  "description": "Un outil pour la migration de code hérité vers des architectures modernes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "author": "Votre Nom",
+  "license": "MIT"
+}
