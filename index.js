@@ -1,10 +1,10 @@
 const fs = require('fs');
 const axios = require('axios');
 
-// Fonction principale de l'outil de migration
+// Main function of the migration tool
 const main = () => {
-    console.log('Outil de Migration Legacy démarré...');
-    // Logic de migration ici
+    console.log('Legacy Migration Tool started...');
+    // Migration logic here
 };
 
 main();
