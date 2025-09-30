@@ -5,6 +5,7 @@ const analyzeCode = (code) => {
 
 const generateReport = (suggestions) => {
     // Logique pour générer un rapport
+    return suggestions.join('\n');
 };
 
 module.exports = { analyzeCode, generateReport };
